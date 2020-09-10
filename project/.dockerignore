@@ -1,0 +1,11 @@
+.gitignore
+.dockerignore
+.php_cs.cache
+.phpunit.result.cache
+README.md
+LICENSE
+.git/
+.idea/
+.vscode/
+vendor/
+node_modules/
